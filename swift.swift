@@ -1,4 +1,4 @@
-// Declare our new class 
+// Declare our new classsss
 class Person {
 // We can define class property here
 var age  = 25
