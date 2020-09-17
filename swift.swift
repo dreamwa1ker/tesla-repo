@@ -7,7 +7,7 @@ init() {
    print(“A new instance of this class Person is created.”) 
  } 
 } 
-// We can now create an instance of class Person - an object - by putting parentheses after the class name
+// We can now create an instance of class Person - an object - by putting parentheses after the class nameee
 let personObj =  Person()
 // Once an instance of Person class is created we can access its properties using the dot “.” syntax.
 print(“This person age is \(personObj.age)”)
