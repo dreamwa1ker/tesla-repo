@@ -1,1 +1,1 @@
-![](https://github.com/dreamwa1ker/tesla-repo/blob/master/Screen%20Shot%202020-11-03%20at%2011.22.16.png =30x)
+![](https://github.com/dreamwa1ker/tesla-repo/blob/master/Screen%20Shot%202020-11-03%20at%2011.22.16.png =30x10)
