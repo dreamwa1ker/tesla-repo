@@ -11,3 +11,4 @@ init() {
 let personObj =  Person()
 // Once an instance of Person class is created we can access its properties using the dot “.” syntax.
 print(“This person age is \(personObj.age)”)
+23123123123123123
